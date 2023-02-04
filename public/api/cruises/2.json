@@ -1,0 +1,29 @@
+{
+    "data": {
+        "id": 2,
+        "type": "cruise",
+        "attributes": {
+            "location": "Alaska",
+            "length": 7,
+            "departure": "2023-09-02",
+            "port": "San Francisco",
+            "ship": "Diamond Prince",
+            "description": "Explore the beauty of Alaska with the Diamond Prince, a magnificent ship that promises an unforgettable 7-day cruise experience. This trip will take you to some of the most beautiful destinations in Alaska, offering a unique chance to experience the stunning natural beauty of the region. The ship will depart from San Francisco port and you will be able to enjoy all the amenities that the Diamond Prince has to offer, including 24-hour room service, a spa, a gym, multiple dining options, and on-board entertainment.",
+            "price": 3000,
+            "amenities": [
+                "24-hour room service",
+                "spa",
+                "gym",
+                "multiple dining options",
+                "on-board entertainment"
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1511316695145-4992006ffddb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2338&q=80",
+                "https://images.unsplash.com/photo-1664969211279-516190ca0672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+                "https://images.unsplash.com/photo-1614054145339-4a25fd7673a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2348&q=80",
+                "https://images.unsplash.com/photo-1593326101816-dd0c165b3ef1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                "https://images.unsplash.com/photo-1576814485347-8b4e9861e74d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2348&q=80"
+            ]
+        }
+    }
+}

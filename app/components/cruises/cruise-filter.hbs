@@ -1,0 +1,39 @@
+<div class="d-flex justify-content-center">
+    <Input placeholder="Search for your next getaway" class="w-25 mr-2 pl-2"/>
+    <button class="btn btn-primary" {{on "click" this.toggleModal}}>Filters</button>
+</div>
+
+<BsModal
+    @open={{this.showModal}}
+    @size="lg" as |modal|>
+    <modal.header class="p-4">
+        <h5>Filter Cruises</h5>
+    </modal.header>
+    <modal.body class="px-4 py-0">
+        {{#each-in this.parsedFormOptions as |category options|}}
+        <div class="mt-4">
+            <h5 class="mb-3">{{humanize category}}</h5>
+            <div class="filter-options-section pb-3">
+                {{#each options as |item index|}}
+                    <div name={{concat category "-" index}} id={{concat category "-" index}} class='form-check my-2'>
+                        <input
+                            class="form-check-input checkbox-lg" 
+                            {{on "input" (fn this.selectItem item category)}} 
+                            name={{concat category item "-" index}} 
+                            type="checkbox" 
+                            value={{item}} 
+                            checked={{isChecked this.filters category item}}
+                        />
+                        <label class="form-check-label checkbox-label-lg" for={{concat category item "-" index}}>{{item}}</label>
+                    </div>
+                {{/each}}
+            </div>
+        </div>
+        {{/each-in}}
+    </modal.body>
+    <modal.footer class="d-flex justify-content-between">
+        <BsButton @onClick={{this.clearAll}} @type="secondary">Clear All</BsButton>
+        <BsButton @onClick={{this.showCruises}} @type="primary">Show Cruises</BsButton>
+    </modal.footer>
+
+</BsModal>

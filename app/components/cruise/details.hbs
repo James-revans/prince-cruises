@@ -1,0 +1,47 @@
+<div>
+    <h1>{{@cruise.location}}</h1>
+</div>
+<div class="cruise_images">
+{{#each @cruise.images as |src index|}}
+    <img class="cruise_img" src={{src}} style={{concat "grid-area: img" index ";"}}/>
+{{/each}}
+</div>
+
+<div class="cruise_body d-flex justify-content-between align-items-start mt-5">
+    <div class="cruise_body_details mr-5">
+        <div class="cruise_body_details_section">
+            <h4 class="mt-2">{{@cruise.length}} day {{@cruise.location}} cruise</h4>
+            <p>{{parseDate @cruise.departure}}</p>
+        </div>
+        <div class="cruise_body_details_section">
+            <h4 class="pb-2">
+                Details
+            </h4>
+            <p>Departs {{@cruise.port}}</p>
+            <p>{{@cruise.ship}}</p>
+            <p>{{@cruise.description}}</p>
+        </div>
+        <div class="cruise_body_details_section">
+            <h4 class="pb-2">
+                Amenities
+            </h4>
+            <ul>
+            {{#each @cruise.amenities as |amenity|}}
+                <li>{{humanize amenity}}</li>
+            {{/each}}
+            </ul>
+        </div>
+    </div>
+    <div class="cruise_body_pricing p-4 ml-5">
+        <h4>Pricing Details</h4>
+        <div>
+            <div><p>${{@cruise.price}} per person</p></div>
+            <p>$210 taxes</p>
+            <p>$50 booking fee</p>
+            <hr />
+            <p><b>Total: ${{add @cruise.price 260}}</b></p>
+            <p>The price mentioned typically includes the cost of the cruise itself, which covers the accommodations, meals, and entertainment on board the ship. However, it is important to note that this information is general and may not include additional expenses such as excursions, drinks, gratuities, travel insurance, and other miscellaneous charges. It is always best to check with the cruise line or travel agent for a complete list of what is included in the price to avoid any surprises.</p>
+        </div>
+        <BsButton @type="primary">Book Now</BsButton>
+    </div>
+</div>

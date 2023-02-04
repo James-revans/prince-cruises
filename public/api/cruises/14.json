@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": 14,
+        "type": "cruise",
+        "attributes": {
+            "location": "Europe",
+            "length": 14,
+            "departure": "2023-05-25",
+            "port": "Barcelona",
+            "ship": "Royal Prince",
+            "description": "Explore the breathtaking beauty of Europe on a 14-day cruise aboard the Royal Prince. With all-inclusive dining options, exciting entertainment and a variety of activities, this cruise promises to be a truly unforgettable experience. Book now to enjoy a relaxing and rejuvenating vacation.",
+            "price": 5000,
+            "amenities": [
+                "All-inclusive dining options",
+                "Entertainment and activities on-board",
+                "Access to swimming pools and hot tubs",
+                "Fitness center",
+                "Spa services",
+                "On-board shopping"
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1661715196923-802f022f694c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3264&q=80",
+                "https://images.unsplash.com/photo-1546610072-90a8cdd6aa4d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                "https://images.unsplash.com/photo-1606390311453-134e4364dfdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=986&q=80",
+                "https://images.unsplash.com/photo-1520175480921-4edfa2983e0f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2334&q=80"
+            ]
+        }
+    }
+}

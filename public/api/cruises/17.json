@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": 17,
+        "type": "cruise",
+        "attributes": {
+            "location": "Australia",
+            "length": 7,
+            "departure": "2023-10-01",
+            "port": "Perth",
+            "ship": "Diamond Prince",
+            "description": "Explore Australia with a 7-day voyage on the Diamond Prince. Depart from the vibrant city of Perth and visit other must-see destinations along the way. Our cabins are equipped with top-notch amenities for a comfortable trip. The price includes all meals and onboard activities. Don't miss out on this once in a lifetime opportunity!",
+            "price": 2000,
+            "amenities": [
+                "Comfortable cabins with top-notch amenities",
+                "All meals included",
+                "Onboard activities",
+                "Experienced crew"
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1582001962370-c2fc46a7e65e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                "https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                "https://images.unsplash.com/photo-1504575958497-ccdd586c2997?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2350&q=80",
+                "https://images.unsplash.com/photo-1539498508910-091b5e859b1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
+                "https://images.unsplash.com/photo-1582623838120-455da222cdc7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3348&q=80"
+            ]
+        }
+    }
+}

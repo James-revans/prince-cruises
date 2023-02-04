@@ -1,0 +1,30 @@
+{
+    "data": {
+        "id": 13,
+        "type": "cruise",
+        "attributes": {
+            "location": "Caribbean",
+            "length": 9,
+            "departure": "2023-08-15",
+            "port": "Tampa",
+            "ship": "Diamond Prince",
+            "description": "Set sail for nine days in the sparkling waters of the Caribbean on-board the luxurious Diamond Prince. With all-inclusive dining options, exciting entertainment and a variety of activities, this cruise promises to be a truly unforgettable experience. Book now to enjoy a relaxing and rejuvenating vacation.",
+            "price": 3000,
+            "amenities": [
+                "All-inclusive dining options",
+                "Entertainment and activities on-board",
+                "Access to swimming pools and hot tubs",
+                "Fitness center",
+                "Spa services",
+                "On-board shopping"
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1548574505-9021fc5226cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                "https://images.unsplash.com/photo-1672546562044-5d3c2860c5c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2252&q=80",
+                "https://images.unsplash.com/photo-1484821582734-6c6c9f99a672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                "https://images.unsplash.com/photo-1617280325974-f9c5721a4862?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80",
+                "https://images.unsplash.com/photo-1620095198790-2f663d67677d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+            ]
+        }
+    }
+}

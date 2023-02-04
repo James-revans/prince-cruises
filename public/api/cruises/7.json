@@ -1,0 +1,29 @@
+{
+    "data": {
+        "id": 7,
+        "type": "cruise",
+        "attributes": {
+            "location": "Caribbean",
+            "length": 7,
+            "departure": "2023-08-01",
+            "port": "Miami",
+            "ship": "Royal Prince",
+            "description": "This 7-day cruise to the Caribbean onboard the Royal Prince promises to be a once-in-a-lifetime experience. Departing from Miami, the ship offers a variety of activities, entertainment, and dining options to make your vacation unforgettable. With crystal-clear waters, stunning beaches, and vibrant culture, the Caribbean is the perfect destination for a summer getaway.",
+            "price": 3500,
+            "amenities": [
+                "24-hour room service",
+                "spa",
+                "gym",
+                "multiple dining options",
+                "on-board entertainment"
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1548574505-9021fc5226cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                "https://images.unsplash.com/photo-1672546562044-5d3c2860c5c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2252&q=80",
+                "https://images.unsplash.com/photo-1484821582734-6c6c9f99a672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                "https://images.unsplash.com/photo-1617280325974-f9c5721a4862?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80",
+                "https://images.unsplash.com/photo-1620095198790-2f663d67677d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+            ]
+        }
+    }
+}

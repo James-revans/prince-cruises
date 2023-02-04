@@ -1,0 +1,28 @@
+{
+    "data": {
+        "id": 16,
+        "type": "cruise",
+        "attributes": {
+            "location": "Europe",
+            "length": 10,
+            "departure": "2023-06-15",
+            "port": "Amsterdam",
+            "ship": "Crown Prince",
+            "description": "Discover the beauty of Europe with a 10-day voyage on the Crown Prince. Begin in the charming city of Amsterdam and explore other must-visit destinations along the way. Our cabins offer comfort and convenience for a relaxing trip. The price includes all meals and onboard activities. Book now for a once in a lifetime experience!",
+            "price": 2500,
+            "amenities": [
+                "Comfortable cabins",
+                "All meals included",
+                "Onboard activities",
+                "Experienced crew"
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1661715196923-802f022f694c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3264&q=80",
+                "https://images.unsplash.com/photo-1546610072-90a8cdd6aa4d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                "https://images.unsplash.com/photo-1606390311453-134e4364dfdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=986&q=80",
+                "https://images.unsplash.com/photo-1520175480921-4edfa2983e0f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2334&q=80"
+            ]
+        }
+    }
+}

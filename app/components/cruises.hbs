@@ -1,0 +1,18 @@
+<Cruises::CruiseFilter @cruises={{@cruises}} @setFilteredCruises={{setFilteredCruises}}/>
+
+<div class="cruises mt-4">
+    {{#each filteredCruises as |cruise|}}
+    <LinkTo class="cruise_card" @route="cruise" @model={{cruise}}>
+        <div class="cruise_card_img_wrap">
+            <img class="cruise_card_img_wrap_img" src={{object-at 0 cruise.images}}/>
+        </div>
+        <div class="cruise_card_body">
+            <h6 class="cruise_card_title mt-2">{{cruise.location}}</h6>
+            <p>{{cruise.length}} days</p>
+            <p>Departs {{cruise.port}}</p>
+            <p>{{parseDate cruise.departure}}</p>
+            <p>{{cruise.ship}}</p>
+        </div>
+    </LinkTo>
+    {{/each}}
+</div>

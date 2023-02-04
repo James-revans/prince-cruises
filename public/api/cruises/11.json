@@ -1,0 +1,31 @@
+{
+    "data": {
+        "id": 11,
+        "type": "cruise",
+        "attributes": {
+            "location": "Alaska",
+            "length": 8,
+            "departure": "2023-07-20",
+            "port": "Vancouver",
+            "ship": "Diamond Prince",
+            "description": "Discover the stunning beauty of Alaska on a 8-day cruise from Vancouver on the grand Diamond Prince ship. Marvel at glaciers, wildlife, and breathtaking scenery as you journey through this wild and wonderful land.",
+            "price": 3500,
+            "amenities": [
+                "Luxurious Cabins",
+                "Gourmet Dining",
+                "Outdoor Pools",
+                "State-of-the-art Fitness Center",
+                "Luxury Spa & Wellness",
+                "Onboard Entertainment",
+                "Adventurous Excursions"
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1511316695145-4992006ffddb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2338&q=80",
+                "https://images.unsplash.com/photo-1664969211279-516190ca0672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+                "https://images.unsplash.com/photo-1614054145339-4a25fd7673a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2348&q=80",
+                "https://images.unsplash.com/photo-1593326101816-dd0c165b3ef1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                "https://images.unsplash.com/photo-1576814485347-8b4e9861e74d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2348&q=80"
+            ]
+        }
+    }
+}

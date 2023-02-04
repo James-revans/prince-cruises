@@ -1,0 +1,10 @@
+:root {
+    --primary: rgb(255, 97, 97);
+    --light-gray-border: rgb(185, 185, 185);
+}
+
+$theme-colors: (
+    "primary": rgb(255, 97, 97),
+    "secondary": rgb(212, 212, 212),
+    "danger": #ff4136
+);

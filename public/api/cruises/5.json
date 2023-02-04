@@ -1,0 +1,29 @@
+{
+    "data": {
+        "id": 5,
+        "type": "cruise",
+        "attributes": {
+            "location": "Asia",
+            "length": 14,
+            "departure": "2023-04-12",
+            "port": "Sydney",
+            "ship": "Royal Prince",
+            "description": "Experience the beauty of Asia with the Royal Prince, a magnificent ship that promises a 14-day cruise experience like no other. This trip will take you to some of themost stunning destinations in Asia, offering a unique chance to experience the rich culture and beauty of the region. The ship will depart from Sydney port and you will be able to enjoy all the amenities that the Royal Prince has to offer, including 24-hour room service, a spa, a gym, multiple dining options, and on-board entertainment.",
+            "price": 5500,
+            "amenities": [
+                "24-hour room service",
+                "spa",
+                "gym",
+                "multiple dining options",
+                "on-board entertainment"
+            ],
+            "images": [
+                "https://images.unsplash.com/photo-1625396836163-80c0d3d7eb86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                "https://images.unsplash.com/photo-1534008897995-27a23e859048?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                "https://images.unsplash.com/photo-1572776082835-0381034979a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                "https://images.unsplash.com/photo-1641477563399-e5f2346453b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                "https://images.unsplash.com/photo-1582070932604-8d0e0950798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+            ]
+        }
+    }
+}

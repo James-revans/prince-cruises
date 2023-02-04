@@ -1,0 +1,470 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": "cruise",
+            "attributes": {
+                "location": "Alaska",
+                "length": 5,
+                "departure": "2023-04-01",
+                "port": "Seattle",
+                "ship": "Crown Prince",
+                "description": "Embark on a breathtaking journey to Alaska with the Crown Prince, a magnificent ship that promises an unforgettable cruise experience. This 5-day trip will take you to some of the most beautiful and breathtaking destinations in Alaska, offering a unique chance to experience the stunning natural beauty of the region. The ship will depart from Seattle port and you will be able to enjoy all the amenities that the Crown Prince has to offer, including 24-hour room service, a spa, a gym, multiple dining options, and on-board entertainment. Get ready for a once-in-a-lifetime adventure in the land of glaciers and wildlife!",
+                "price": 2000,
+                "amenities": [
+                    "24-hour room service",
+                    "spa",
+                    "gym",
+                    "multiple dining options",
+                    "on-board entertainment"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1511316695145-4992006ffddb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2338&q=80",
+                    "https://images.unsplash.com/photo-1664969211279-516190ca0672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+                    "https://images.unsplash.com/photo-1614054145339-4a25fd7673a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2348&q=80",
+                    "https://images.unsplash.com/photo-1593326101816-dd0c165b3ef1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                    "https://images.unsplash.com/photo-1576814485347-8b4e9861e74d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2348&q=80"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "type": "cruise",
+            "attributes": {
+                "location": "Alaska",
+                "length": 7,
+                "departure": "2023-09-02",
+                "port": "San Francisco",
+                "ship": "Diamond Prince",
+                "description": "Explore the beauty of Alaska with the Diamond Prince, a magnificent ship that promises an unforgettable 7-day cruise experience. This trip will take you to some of the most beautiful destinations in Alaska, offering a unique chance to experience the stunning natural beauty of the region. The ship will depart from San Francisco port and you will be able to enjoy all the amenities that the Diamond Prince has to offer, including 24-hour room service, a spa, a gym, multiple dining options, and on-board entertainment.",
+                "price": 3000,
+                "amenities": [
+                    "24-hour room service",
+                    "spa",
+                    "gym",
+                    "multiple dining options",
+                    "on-board entertainment"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1511316695145-4992006ffddb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2338&q=80",
+                    "https://images.unsplash.com/photo-1664969211279-516190ca0672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+                    "https://images.unsplash.com/photo-1614054145339-4a25fd7673a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2348&q=80",
+                    "https://images.unsplash.com/photo-1593326101816-dd0c165b3ef1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                    "https://images.unsplash.com/photo-1576814485347-8b4e9861e74d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2348&q=80"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "type": "cruise",
+            "attributes": {
+                "location": "Alaska",
+                "length": 14,
+                "departure": "2023-05-07",
+                "port": "San Diego",
+                "ship": "Coral Prince",
+                "description": "Discover the beauty of Alaska with the Coral Prince, a magnificent ship that promises a 14-day cruise experience like no other. This trip will take you to some of the most breathtaking destinations in Alaska, offering a unique chance to experience the stunning natural beauty of the region. The ship will depart from San Diego port and you will be able to enjoy all the amenities that the Coral Prince has to offer, including 24-hour room service, a spa, a gym, multiple dining options, and on-board entertainment.",
+                "price": 5000,
+                "amenities": [
+                    "24-hour room service",
+                    "spa",
+                    "gym",
+                    "multiple dining options",
+                    "on-board entertainment"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1511316695145-4992006ffddb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2338&q=80",
+                    "https://images.unsplash.com/photo-1664969211279-516190ca0672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+                    "https://images.unsplash.com/photo-1614054145339-4a25fd7673a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2348&q=80",
+                    "https://images.unsplash.com/photo-1593326101816-dd0c165b3ef1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                    "https://images.unsplash.com/photo-1576814485347-8b4e9861e74d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2348&q=80"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "type": "cruise",
+            "attributes": {
+                "location": "Asia",
+                "length": 10,
+                "departure": "2023-05-01",
+                "port": "Singapore",
+                "ship": "Coral Prince",
+                "description": "Embark on a journey to Asia with the Coral Prince, a magnificent ship that promises a 10-day cruise experience like no other. This trip will take you to some of the most stunning destinations in Asia, offering a unique chance to experience the rich culture and beauty of the region. The ship will depart from Singapore port and you will be able to enjoy all the amenities that the Coral Prince has to offer, including 24-hour room service, a spa, a gym, multiple dining options, and on-board entertainment.",
+                "price": 4000,
+                "amenities": [
+                    "24-hour room service",
+                    "spa",
+                    "gym",
+                    "multiple dining options",
+                    "on-board entertainment"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1625396836163-80c0d3d7eb86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                    "https://images.unsplash.com/photo-1534008897995-27a23e859048?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                    "https://images.unsplash.com/photo-1572776082835-0381034979a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                    "https://images.unsplash.com/photo-1641477563399-e5f2346453b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                    "https://images.unsplash.com/photo-1582070932604-8d0e0950798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "type": "cruise",
+            "attributes": {
+                "location": "Asia",
+                "length": 14,
+                "departure": "2023-04-12",
+                "port": "Sydney",
+                "ship": "Royal Prince",
+                "description": "Experience the beauty of Asia with the Royal Prince, a magnificent ship that promises a 14-day cruise experience like no other. This trip will take you to some of themost stunning destinations in Asia, offering a unique chance to experience the rich culture and beauty of the region. The ship will depart from Sydney port and you will be able to enjoy all the amenities that the Royal Prince has to offer, including 24-hour room service, a spa, a gym, multiple dining options, and on-board entertainment.",
+                "price": 5500,
+                "amenities": [
+                    "24-hour room service",
+                    "spa",
+                    "gym",
+                    "multiple dining options",
+                    "on-board entertainment"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1625396836163-80c0d3d7eb86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                    "https://images.unsplash.com/photo-1534008897995-27a23e859048?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                    "https://images.unsplash.com/photo-1572776082835-0381034979a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                    "https://images.unsplash.com/photo-1641477563399-e5f2346453b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                    "https://images.unsplash.com/photo-1582070932604-8d0e0950798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "type": "cruise",
+            "attributes": {
+                "location": "Asia",
+                "length": 10,
+                "departure": "2023-10-02",
+                "port": "Brisbane",
+                "ship": "Coral Prince",
+                "description": "This 10-day cruise to Asia onboard the Coral Prince is a chance to experience some of the most beautiful and exotic destinations in the region. Departing from Brisbane, the ship offers luxurious amenities and world-class dining options to make your vacation truly unforgettable.",
+                "price": 4000,
+                "amenities": [
+                    "24-hour room service",
+                    "spa",
+                    "gym",
+                    "multiple dining options",
+                    "on-board entertainment"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1625396836163-80c0d3d7eb86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                    "https://images.unsplash.com/photo-1534008897995-27a23e859048?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                    "https://images.unsplash.com/photo-1572776082835-0381034979a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                    "https://images.unsplash.com/photo-1641477563399-e5f2346453b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                    "https://images.unsplash.com/photo-1582070932604-8d0e0950798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "type": "cruise",
+            "attributes": {
+                "location": "Caribbean",
+                "length": 7,
+                "departure": "2023-08-01",
+                "port": "Miami",
+                "ship": "Royal Prince",
+                "description": "This 7-day cruise to the Caribbean onboard the Royal Prince promises to be a once-in-a-lifetime experience. Departing from Miami, the ship offers a variety of activities, entertainment, and dining options to make your vacation unforgettable. With crystal-clear waters, stunning beaches, and vibrant culture, the Caribbean is the perfect destination for a summer getaway.",
+                "price": 3500,
+                "amenities": [
+                    "24-hour room service",
+                    "spa",
+                    "gym",
+                    "multiple dining options",
+                    "on-board entertainment"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1548574505-9021fc5226cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                    "https://images.unsplash.com/photo-1672546562044-5d3c2860c5c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2252&q=80",
+                    "https://images.unsplash.com/photo-1484821582734-6c6c9f99a672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                    "https://images.unsplash.com/photo-1617280325974-f9c5721a4862?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80",
+                    "https://images.unsplash.com/photo-1620095198790-2f663d67677d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "type": "cruise",
+            "attributes": {
+                "location": "Caribbean",
+                "length": 9,
+                "departure": "2023-08-01",
+                "port": "Miami",
+                "ship": "Royal Prince",
+                "description": "This 9-day cruise to the Caribbean onboard the Royal Prince is the ultimate getaway. Departing from Miami, you'll be able to experience the beautiful islands, crystal-clear waters, and vibrant culture of the Caribbean. With top-notch amenities, delicious dining options, and a variety of activities and entertainment, this vacation promises to be unforgettable.",
+                "price": 4500,
+                "amenities": [
+                    "24-hour room service",
+                    "spa",
+                    "gym",
+                    "multiple dining options",
+                    "on-board entertainment"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1548574505-9021fc5226cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                    "https://images.unsplash.com/photo-1672546562044-5d3c2860c5c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2252&q=80",
+                    "https://images.unsplash.com/photo-1484821582734-6c6c9f99a672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                    "https://images.unsplash.com/photo-1617280325974-f9c5721a4862?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80",
+                    "https://images.unsplash.com/photo-1620095198790-2f663d67677d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "type": "cruise",
+            "attributes": {
+                "location": "Caribbean",
+                "length": 7,
+                "departure": "2023-06-27",
+                "port": "Galveston",
+                "ship": "Diamond Prince",
+                "description": "Embark on a 7-day cruise to the beautiful Caribbean on the luxurious Diamond Prince ship, departing from Galveston. Relax and unwind as you visit some of the most stunning tropical destinations in the Caribbean.",
+                "price": 3000,
+                "amenities": [
+                    "Spacious Cabins",
+                    "Multiple Dining Options",
+                    "Swimming Pools",
+                    "Fitness Center",
+                    "Spa & Wellness Center",
+                    "Entertainment Venues",
+                    "Onboard Activities"
+                ]
+                ,
+                "images": [
+                    "https://images.unsplash.com/photo-1548574505-9021fc5226cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                    "https://images.unsplash.com/photo-1672546562044-5d3c2860c5c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2252&q=80",
+                    "https://images.unsplash.com/photo-1484821582734-6c6c9f99a672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                    "https://images.unsplash.com/photo-1617280325974-f9c5721a4862?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80",
+                    "https://images.unsplash.com/photo-1620095198790-2f663d67677d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "type": "cruise",
+            "attributes": {
+                "location": "Caribbean",
+                "length": 5,
+                "departure": "2023-11-01",
+                "port": "Houston",
+                "ship": "Crown Prince",
+                "description": "Set sail on a 5-day Caribbean adventure from Houston on the magnificent Crown Prince ship. Experience the beauty and wonder of the Caribbean, from pristine beaches to turquoise waters and colorful coral reefs.",
+                "price": 2500,
+                "amenities": [
+                    "Comfortable Cabins",
+                    "Onboard Dining",
+                    "Outdoor Pools",
+                    "Fitness Center",
+                    "Spa Services",
+                    "Live Entertainment",
+                    "Exciting Activities"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1548574505-9021fc5226cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                    "https://images.unsplash.com/photo-1672546562044-5d3c2860c5c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2252&q=80",
+                    "https://images.unsplash.com/photo-1484821582734-6c6c9f99a672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                    "https://images.unsplash.com/photo-1617280325974-f9c5721a4862?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80",
+                    "https://images.unsplash.com/photo-1620095198790-2f663d67677d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "type": "cruise",
+            "attributes": {
+                "location": "Alaska",
+                "length": 8,
+                "departure": "2023-07-20",
+                "port": "Vancouver",
+                "ship": "Diamond Prince",
+                "description": "Discover the stunning beauty of Alaska on a 8-day cruise from Vancouver on the grand Diamond Prince ship. Marvel at glaciers, wildlife, and breathtaking scenery as you journey through this wild and wonderful land.",
+                "price": 3500,
+                "amenities": [
+                    "Luxurious Cabins",
+                    "Gourmet Dining",
+                    "Outdoor Pools",
+                    "State-of-the-art Fitness Center",
+                    "Luxury Spa & Wellness",
+                    "Onboard Entertainment",
+                    "Adventurous Excursions"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1511316695145-4992006ffddb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2338&q=80",
+                    "https://images.unsplash.com/photo-1664969211279-516190ca0672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+                    "https://images.unsplash.com/photo-1614054145339-4a25fd7673a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2348&q=80",
+                    "https://images.unsplash.com/photo-1593326101816-dd0c165b3ef1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                    "https://images.unsplash.com/photo-1576814485347-8b4e9861e74d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2348&q=80"
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "type": "cruise",
+            "attributes": {
+                "location": "Caribbean",
+                "length": 7,
+                "departure": "2023-07-01",
+                "port": "New Orleans",
+                "ship": "Crown Prince",
+                "description": "Embark on a seven-day adventure in the beautiful Caribbean aboard the Crown Prince. Enjoy the ship's luxurious amenities, relax on deck or join in on exciting activities offered on-board. All meals, entertainment and activities are included in the price. Book now to experience a truly unforgettable vacation.",
+                "price": 2500,
+                "amenities": [
+                    "All-inclusive dining options",
+                    "Entertainment and activities on-board",
+                    "Access to swimming pools and hot tubs",
+                    "Fitness center",
+                    "Spa services",
+                    "On-board shopping"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1548574505-9021fc5226cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                    "https://images.unsplash.com/photo-1672546562044-5d3c2860c5c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2252&q=80",
+                    "https://images.unsplash.com/photo-1484821582734-6c6c9f99a672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                    "https://images.unsplash.com/photo-1617280325974-f9c5721a4862?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80",
+                    "https://images.unsplash.com/photo-1620095198790-2f663d67677d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "type": "cruise",
+            "attributes": {
+                "location": "Caribbean",
+                "length": 9,
+                "departure": "2023-08-15",
+                "port": "Tampa",
+                "ship": "Diamond Prince",
+                "description": "Set sail for nine days in the sparkling waters of the Caribbean on-board the luxurious Diamond Prince. With all-inclusive dining options, exciting entertainment and a variety of activities, this cruise promises to be a truly unforgettable experience. Book now to enjoy a relaxing and rejuvenating vacation.",
+                "price": 3000,
+                "amenities": [
+                    "All-inclusive dining options",
+                    "Entertainment and activities on-board",
+                    "Access to swimming pools and hot tubs",
+                    "Fitness center",
+                    "Spa services",
+                    "On-board shopping"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1548574505-9021fc5226cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                    "https://images.unsplash.com/photo-1672546562044-5d3c2860c5c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2252&q=80",
+                    "https://images.unsplash.com/photo-1484821582734-6c6c9f99a672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                    "https://images.unsplash.com/photo-1617280325974-f9c5721a4862?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80",
+                    "https://images.unsplash.com/photo-1620095198790-2f663d67677d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "type": "cruise",
+            "attributes": {
+                "location": "Europe",
+                "length": 14,
+                "departure": "2023-05-25",
+                "port": "Barcelona",
+                "ship": "Royal Prince",
+                "description": "Explore the breathtaking beauty of Europe on a 14-day cruise aboard the Royal Prince. With all-inclusive dining options, exciting entertainment and a variety of activities, this cruise promises to be a truly unforgettable experience. Book now to enjoy a relaxing and rejuvenating vacation.",
+                "price": 5000,
+                "amenities": [
+                    "All-inclusive dining options",
+                    "Entertainment and activities on-board",
+                    "Access to swimming pools and hot tubs",
+                    "Fitness center",
+                    "Spa services",
+                    "On-board shopping"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1661715196923-802f022f694c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3264&q=80",
+                    "https://images.unsplash.com/photo-1546610072-90a8cdd6aa4d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                    "https://images.unsplash.com/photo-1606390311453-134e4364dfdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                    "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=986&q=80",
+                    "https://images.unsplash.com/photo-1520175480921-4edfa2983e0f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2334&q=80"
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "type": "cruise",
+            "attributes": {
+                "location": "Europe",
+                "length": 12,
+                "departure": "2023-09-10",
+                "port": "Rome",
+                "ship": "Coral Prince",
+                "description": "Embark on a 12-day journey through Europe on the Coral Prince. Start your adventure in the beautiful city of Rome, and continue through to other must-see destinations along the way. Each cabin is equipped with comfortable amenities and a stunning view. The price includes all meals and onboard activities. Join us for the trip of a lifetime!",
+                "price": 3000,
+                "amenities": [
+                    "Comfortable cabins with stunning views",
+                    "All meals included",
+                    "Onboard activities",
+                    "Experienced crew"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1661715196923-802f022f694c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3264&q=80",
+                    "https://images.unsplash.com/photo-1546610072-90a8cdd6aa4d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                    "https://images.unsplash.com/photo-1606390311453-134e4364dfdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                    "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=986&q=80",
+                    "https://images.unsplash.com/photo-1520175480921-4edfa2983e0f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2334&q=80"
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "type": "cruise",
+            "attributes": {
+                "location": "Europe",
+                "length": 10,
+                "departure": "2023-06-15",
+                "port": "Amsterdam",
+                "ship": "Crown Prince",
+                "description": "Discover the beauty of Europe with a 10-day voyage on the Crown Prince. Begin in the charming city of Amsterdam and explore other must-visit destinations along the way. Our cabins offer comfort and convenience for a relaxing trip. The price includes all meals and onboard activities. Book now for a once in a lifetime experience!",
+                "price": 2500,
+                "amenities": [
+                    "Comfortable cabins",
+                    "All meals included",
+                    "Onboard activities",
+                    "Experienced crew"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1661715196923-802f022f694c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3264&q=80",
+                    "https://images.unsplash.com/photo-1546610072-90a8cdd6aa4d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                    "https://images.unsplash.com/photo-1606390311453-134e4364dfdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+                    "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=986&q=80",
+                    "https://images.unsplash.com/photo-1520175480921-4edfa2983e0f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2334&q=80"
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "type": "cruise",
+            "attributes": {
+                "location": "Australia",
+                "length": 7,
+                "departure": "2023-10-01",
+                "port": "Perth",
+                "ship": "Diamond Prince",
+                "description": "Explore Australia with a 7-day voyage on the Diamond Prince. Depart from the vibrant city of Perth and visit other must-see destinations along the way. Our cabins are equipped with top-notch amenities for a comfortable trip. The price includes all meals and onboard activities. Don't miss out on this once in a lifetime opportunity!",
+                "price": 2000,
+                "amenities": [
+                    "Comfortable cabins with top-notch amenities",
+                    "All meals included",
+                    "Onboard activities",
+                    "Experienced crew"
+                ],
+                "images": [
+                    "https://images.unsplash.com/photo-1582001962370-c2fc46a7e65e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+                    "https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3266&q=80",
+                    "https://images.unsplash.com/photo-1504575958497-ccdd586c2997?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2350&q=80",
+                    "https://images.unsplash.com/photo-1539498508910-091b5e859b1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
+                    "https://images.unsplash.com/photo-1582623838120-455da222cdc7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3348&q=80"
+                ]
+            }
+        }
+    ]
+}

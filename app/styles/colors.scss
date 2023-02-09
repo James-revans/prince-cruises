@@ -1,6 +1,7 @@
 :root {
     --primary: rgb(255, 97, 97);
     --light-gray-border: rgb(185, 185, 185);
+    --border-bottom-light-gray: solid 1px var(--light-gray-border);
 }
 
 $theme-colors: (

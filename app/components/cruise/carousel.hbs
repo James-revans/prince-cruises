@@ -1,0 +1,17 @@
+<BsModal
+    @open={{@isCarouselActive}}
+    @size="lg">
+    <BsCarousel
+        @autoPlay={{false}}
+        @index={{@carouselIndex}}
+        @keyboard={{true}}
+        @showControls={{true}}
+        @showIndicators={{true}}
+    as |car|>
+    {{#each @images as |src|}}
+        <car.slide class="carousel_slide">
+            <img src={{src}} class="carousel_slide_img">
+        </car.slide>
+    {{/each}}
+    </BsCarousel>
+</BsModal>

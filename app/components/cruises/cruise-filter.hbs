@@ -1,6 +1,9 @@
 <div class="d-flex justify-content-center">
-    <Input placeholder="Search for your next getaway" class="w-25 mr-2 pl-2"/>
-    <button class="btn btn-primary" {{on "click" this.toggleModal}}>Filters</button>
+    <Input disabled placeholder="Search (disabled until I work on it)" class="w-25 mr-2 pl-2"/>
+    <BsButton @type="primary" @onClick={{this.toggleModal}}>
+        {{inline-svg "/icons/configure.svg" class="icon_configure"}}
+        Filters
+    </BsButton>
 </div>
 
 <BsModal

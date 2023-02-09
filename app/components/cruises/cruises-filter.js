@@ -3,7 +3,7 @@ import { tracked } from '@glimmer/tracking';
 import { action } from '@ember/object';
 import { cloneDeep } from 'lodash';
 
-export default class CruiseFilterComponent extends Component {
+export default class CruisesFilterComponent extends Component {
   emptyFilter = {
     location: [],
     length: [],
